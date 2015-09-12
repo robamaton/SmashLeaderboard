@@ -1,0 +1,2 @@
+--ignore-file=match:react_app.js
+--ignore-dir=node_modules
